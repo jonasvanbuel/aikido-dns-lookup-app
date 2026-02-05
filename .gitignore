@@ -1,0 +1,34 @@
+# Claude Code IDE
+.claude/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# PHP
+vendor/
+composer.lock
+
+# Environment & Secrets (if you ever add real ones)
+.env
+.env.local
+*.pem
+*.key
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
